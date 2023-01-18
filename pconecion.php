@@ -2,7 +2,7 @@
 $servername = "localhost";
 $database = "programacioniiibd";
 $username = "root";
-// Create connection
+// Create connection con la base de datos
 $conn = mysqli_connect($servername, $username, "", $database);
 // Check connection
 if (!$conn) {
