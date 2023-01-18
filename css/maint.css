@@ -1,0 +1,31 @@
+body {
+   font-family: 'Hind Guntur', sans-serif;
+   background-color: #fdfdf6;
+
+   }
+header {
+	margin-top: 7px;
+}
+   #gratis{
+   	background: #222831;
+      color: white;
+   padding: 20px 0 10px 0;
+   text-align: center;
+   margin-top: 40px;
+
+   }
+
+   #tuto1{
+      color: black;
+      margin: 100px;
+      width: 40px;
+   }
+   footer {
+      background-color: #222831;
+   padding: 20px 0 10px 0;
+   }
+   #carouselExampleIndicators {
+      color: black;
+      text-decoration-color: #000000;
+      text-align: center;
+   }
